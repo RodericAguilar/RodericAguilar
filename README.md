@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @RodericAguilar
-- 👀 I’m interested in my love Daniela
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in IA
+- 🌱 I’m currently learning nothing 🤪
 
 <!---
 RodericAguilar/RodericAguilar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
