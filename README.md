@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm RodericAguilar</h1>
 <h3 align="center">🌱 I like the cats!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodericaguila&label=Profile%20views&color=0e75b6&style=flat" alt="rodericaguila" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodericaguilar" alt="rodericaguila" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,8 +23,5 @@
 
 </p>
 
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RodericAguilar&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=120303&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF" alt="rodericaguila"/>
-
-</p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rodericaguila&label=Profile%20views&color=0e75b6&style=flat" alt="rodericaguila" /> </p>
 
